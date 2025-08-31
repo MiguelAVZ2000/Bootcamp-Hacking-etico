@@ -1,0 +1,2 @@
+http://testphp.vulnweb.com/artists.php?artist=
+http://testphp.vulnweb.com/showimage.php?file=
